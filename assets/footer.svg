@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Thanks for stopping by">
+<style>.q{font-family:'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:16px;fill:#94a3b8}.h{font-family:'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif;font-size:22px;font-weight:800;fill:#e6edf3;letter-spacing:1px}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a0f1e"/><stop offset="1" stop-color="#0e1734"/></linearGradient>
+<linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+<clipPath id="r"><rect width="1200" height="200" rx="20"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="200" fill="url(#bg)"/>
+<text class="h" x="600" y="62" text-anchor="middle">THANKS FOR STOPPING BY</text>
+<text class="q" x="600" y="90" text-anchor="middle">Make it work, make it right, make it fast.</text>
+<path d="M-600,118 c150,-26 450,26 600,0 c150,-26 450,26 600,0 c150,-26 450,26 600,0 c150,-26 450,26 600,0 c150,-26 450,26 600,0 V200 H-600 Z" fill="url(#w1)" fill-opacity="0.18"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/></path><path d="M-800,132 c150,-22 450,22 600,0 c150,-22 450,22 600,0 c150,-22 450,22 600,0 c150,-22 450,22 600,0 c150,-22 450,22 600,0 V200 H-800 Z" fill="url(#w1)" fill-opacity="0.28"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="10s" repeatCount="indefinite"/></path><path d="M-1020,148 c150,-18 450,18 600,0 c150,-18 450,18 600,0 c150,-18 450,18 600,0 c150,-18 450,18 600,0 c150,-18 450,18 600,0 V200 H-1020 Z" fill="url(#w1)" fill-opacity="0.45"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/></path>
+</g>
+<rect x=".5" y=".5" width="1199" height="199" rx="20" fill="none" stroke="#1e293b"/>
+</svg>

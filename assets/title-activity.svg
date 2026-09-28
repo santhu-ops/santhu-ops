@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="ACTIVITY">
+<style>.t{font-family:'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif;font-weight:800;font-size:28px;fill:#e6edf3;letter-spacing:1px}.s{font-family:'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:14px;fill:#8b98a9}.k{font-family:'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:26px;font-weight:700;fill:#2DD4BF}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="g3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></linearGradient>
+<linearGradient id="a3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="63" rx="14" fill="#0b1020" stroke="#1e293b"/>
+<rect x="18" y="16" width="5" height="32" rx="2.5" fill="url(#a3)"><animate attributeName="height" values="32;18;32" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="16;23;16" dur="2.4s" repeatCount="indefinite"/></rect>
+<text class="k" x="38" y="41">//</text>
+<text class="t" x="76" y="41">ACTIVITY</text>
+<text class="s" x="1176" y="39" text-anchor="end">commits, streaks &amp; the snake</text>
+<rect x="24" y="58" width="1152" height="1" fill="#1e293b"/>
+<rect x="0" y="57" width="220" height="3" rx="1.5" fill="url(#g3)"><animate attributeName="x" values="-220;1200" dur="4.5s" repeatCount="indefinite"/></rect>
+</svg>
