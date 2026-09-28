@@ -54,9 +54,8 @@
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhu-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=2DD4BF&icon_color=A78BFA&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhu-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=2DD4BF&langs_count=8" alt="Top languages" />
-
+<img height="190" src="https://raw.githubusercontent.com/santhu-ops/santhu-ops/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="190" src="https://raw.githubusercontent.com/santhu-ops/santhu-ops/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhu-ops&theme=tokyonight&hide_border=true&background=0b1020&ring=A78BFA&fire=F472B6&currStreakLabel=2DD4BF" alt="GitHub streak" />
